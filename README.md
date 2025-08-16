@@ -19,3 +19,6 @@ References and deep dives:
 - [NTDEV Wiki - PEB](https://www.nirsoft.net/kernel_struct/vista/PEB.html)
 
 - was laying on my usb, so why not to upload it 🤷‍♂️.
+
+# PoC:
+![PoC](PoC.png)
