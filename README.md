@@ -17,3 +17,5 @@ References and deep dives:
 
 - [Windows Internals Book](https://www.microsoftpressstore.com/store/windows-internals-part-1-system-architecture-processes-9780735684188)
 - [NTDEV Wiki - PEB](https://www.nirsoft.net/kernel_struct/vista/PEB.html)
+
+- was laying on my usb, so why not to upload it 🤷‍♂️.
